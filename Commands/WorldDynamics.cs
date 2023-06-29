@@ -7,7 +7,7 @@ using System.Text.Json;
 using Unity.Entities;
 
 namespace RPGMods.Commands
-{/*
+{
     [Command("worlddynamics, wd", Usage = "wd [<faction>] [<stats>|<save>|<load>|<ignore>|<unignore>] [<npc prefab name>]", Description = "List all faction stats. Save them, or load from the json file.")]
     public static class WorldDynamics
     {
@@ -100,5 +100,5 @@ namespace RPGMods.Commands
                 }
             }
         }
-    }*/
+    }
 }
